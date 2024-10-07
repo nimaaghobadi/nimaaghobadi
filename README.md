@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @nimaaghobadi
-- 👀 I’m interested in Programming and Front End Web Developer
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on Front End Web Developer
+# Nima Ghobadi
 
-<!---
-nimaaghobadi/nimaaghobadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Introduction
+Enthusiastic prospective Computer Science student with a strong passion for programming and web development.
+
+## Skills
+- **Programming Languages**: C++, JavaScript, C
+- **Web Development**: HTML, CSS, WordPress, Bootstrap, SASS, Responsive Design, JavaScript, ReactJS
+  
+## Projects
+Actively engaged in personal projects within programming and web development, with further updates forthcoming.
+
+## Publications
+- Ghobadi, N. (2024). Neuroscientific foundations of creativity, ideation, and problem-solving: A critical review and cognitive enhancement strategies. Zenodo. https://doi.org/10.5281/zenodo.13895946
+
+## Future Plans
+Dedicated to investigating cutting-edge technologies and enhancing my expertise in the field of computer science.
+
+## Contact
+- Email: nima.ghobadi98@gmail.com
+

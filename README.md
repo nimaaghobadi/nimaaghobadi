@@ -19,6 +19,6 @@ For a comprehensive list of my latest publications, please visit my research pro
 Dedicated to investigating cutting-edge technologies and enhancing my expertise in the field of computer science.
 
 ## Contact
-- **LinkedIn**: [Nima Ghobadi](https://linkedin.com/in/nimaaghobadi)
+- **LinkedIn**: [Nima Ghobadi](https://www.linkedin.com/in/nimaaghobadi)
 - **ORCID**: [0009-0009-6146-3045](https://orcid.org/0009-0009-6146-3045)
 - **Email**: nima.ghobadi98@gmail.com

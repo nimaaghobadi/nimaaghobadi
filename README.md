@@ -1,21 +1,24 @@
 # Nima Ghobadi
 
 ## Introduction
-Enthusiastic prospective Computer Science student with a strong passion for programming and web development.
+Enthusiastic prospective Computer Science student with a strong passion for computer programming and web development.
 
 ## Skills
 - **Programming Languages**: C++, JavaScript, C
 - **Web Development**: HTML, CSS, WordPress, Bootstrap, SASS, Responsive Design, JavaScript, ReactJS
+- **Tools**: Git, GitHub, LaTeX
   
 ## Projects
 Actively engaged in personal projects within programming and web development, with further updates forthcoming.
 
-## Publications
-- Ghobadi, N. (2024). Neuroscientific foundations of creativity, ideation, and problem-solving: A critical review and cognitive enhancement strategies. Zenodo. https://doi.org/10.5281/zenodo.13895946
+## Publications & Research
+For a comprehensive list of my latest publications, please visit my research profiles:
+- **ORCID**: [0009-0009-6146-3045](https://orcid.org/0009-0009-6146-3045)
 
 ## Future Plans
 Dedicated to investigating cutting-edge technologies and enhancing my expertise in the field of computer science.
 
 ## Contact
-- Email: nima.ghobadi98@gmail.com
-
+- **LinkedIn**: [Nima Ghobadi](https://linkedin.com/in/nimaaghobadi)
+- **ORCID**: [0009-0009-6146-3045](https://orcid.org/0009-0009-6146-3045)
+- **Email**: nima.ghobadi98@gmail.com

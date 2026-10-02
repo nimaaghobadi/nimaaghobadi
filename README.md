@@ -19,5 +19,6 @@ For my latest publications and ongoing research projects, please visit my ORCID 
 ## Contact
 - **Email:** nima.ghobadi98@gmail.com  
 - **LinkedIn:** [in/nimaghobadi](https://www.linkedin.com/in/nimaghobadi/)  
-- **ORCID:** [0009-0009-6146-3045](https://orcid.org/0009-0009-6146-3045)
+- **ORCID:** [0009-0009-6146-3045](https://orcid.org/0009-0009-6146-3045)  
+- **Website:** [Nima Ghobadi](https://personal-website-2-4xd.pages.dev/)
 

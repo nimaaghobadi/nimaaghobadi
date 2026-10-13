@@ -4,9 +4,9 @@ Interessi nelle scienze della vita, nelle biotecnologie e nei settori biomedici 
 
 ## Ambiti di interesse
 
-- Biologia e scienze della vita
-- Biotecnologie e scienze della vita a livello molecolare
-- Scienze biomediche e discipline correlate alla salute
+- Biologia e biologia molecolare
+- Biotecnologie
+- Scienze biomediche e discipline sanitarie
 
 ## Link
 

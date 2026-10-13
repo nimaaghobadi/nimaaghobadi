@@ -1,4 +1,4 @@
- [English](README.md) | [Deutsch](README.de.md) | [Italiano](README.it.md)
+[English](README.md) | [Deutsch](README.de.md) | [Italiano](README.it.md)
 
 ## Academic Profile
 

@@ -1,24 +1,19 @@
-# Nima Ghobadi
-## AI Researcher | Deep Learning
+ [English](README.md) | [Deutsch](README.de.md) | [Italiano](README.it.md)
 
----
+## Academic Profile
 
-## Skills
-- **Artificial Intelligence (AI)** | Machine Learning (ML) | Deep Learning (DL)
-- **Reinforcement Learning** | Meta-Learning
-- **Computational Biotechnology** | Quantum Computing
-- **Python** | PyTorch | Data Science | AI Engineering | ML/DL Engineering
+Academic interests spanning the life sciences, biotechnology, biomedical fields, and related health disciplines.
 
----
+## Academic and Scientific Interests
 
-## Publications & Research
-For my latest publications and ongoing research projects, please visit my ORCID profile: [0009-0009-6146-3045](https://orcid.org/0009-0009-6146-3045)
+- **Biological sciences:** biology and the molecular and biochemical foundations of living systems
+- **Biotechnology and biomedical sciences:** the study and application of biological knowledge in related scientific fields
+- **Health-related sciences:** diagnostic, laboratory, and other applied health disciplines
 
----
+This profile serves as a central reference for my academic interests and professional links. It does not imply current enrolment in a particular degree programme.
 
-## Contact
-- **Email:** nima.ghobadi98@gmail.com  
-- **LinkedIn:** [in/nimaghobadi](https://www.linkedin.com/in/nimaghobadi/)  
-- **ORCID:** [0009-0009-6146-3045](https://orcid.org/0009-0009-6146-3045)  
-- **Website:** [Nima Ghobadi](https://nimaghobadi.pages.dev/)
+## Professional and Academic Links
 
+- [Personal Website](https://nimaghobadi.is-an.org/)
+- [LinkedIn](https://www.linkedin.com/in/nimaghobadi/)
+- [ORCID](https://orcid.org/0009-0009-6146-3045)

@@ -4,8 +4,8 @@ Interessen in den Lebenswissenschaften, der Biotechnologie und verwandten biomed
 
 ## Interessengebiete
 
-- Biologie und Lebenswissenschaften
-- Biotechnologie und molekulare Lebenswissenschaften
+- Biologie und Molekularbiologie
+- Biotechnologie
 - Biomedizinische und gesundheitsbezogene Wissenschaften
 
 ## Links

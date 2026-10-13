@@ -4,9 +4,9 @@ Interested in the life sciences, biotechnology, and related biomedical fields.
 
 ## Areas of Interest
 
-- Biology and the life sciences
-- Biotechnology and molecular life sciences
-- Biomedical and health-related sciences
+- Biology and molecular biology
+- Biotechnology
+- Biomedical and health sciences
 
 ## Links
 

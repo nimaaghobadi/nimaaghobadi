@@ -1,12 +1,13 @@
 [English](README.md) | [Deutsch](README.de.md) | [Italiano](README.it.md)
 
-Interessen in den Lebenswissenschaften, der Biotechnologie und verwandten biomedizinischen Fachgebieten.
+Interessen in den Lebenswissenschaften, der Biotechnologie, den pharmazeutischen Wissenschaften und computergestützten Ansätzen für biologische und biomedizinische Fragestellungen.
 
 ## Interessengebiete
 
 - Biologie und Molekularbiologie
-- Biotechnologie
+- Biotechnologie und pharmazeutische Wissenschaften
 - Biomedizinische und gesundheitsbezogene Wissenschaften
+- Computational Biology und wissenschaftliche Anwendungen künstlicher Intelligenz
 
 ## Links
 
